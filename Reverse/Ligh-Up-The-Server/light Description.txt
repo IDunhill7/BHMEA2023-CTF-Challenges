@@ -1,0 +1,1 @@
+We found this web server but we can't seem to retrieve any files from the server with a get request. to submit, wrap flag in BHFlagY{}.
