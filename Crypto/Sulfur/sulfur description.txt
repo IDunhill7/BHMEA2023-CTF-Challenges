@@ -1,0 +1,1 @@
+A smart cryptographer relies on two cryptograhic primitives so security is not compromised when one is broken. my ECDLP knapsack combination should be secure, even though it's generally not. I even redacted most of my public key, good luck solving it!
