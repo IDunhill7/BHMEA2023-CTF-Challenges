@@ -1,0 +1,1 @@
+Straight forward challenge, the flag is written on running notepad process. Flag is direct without BHFlagY{} tag.
