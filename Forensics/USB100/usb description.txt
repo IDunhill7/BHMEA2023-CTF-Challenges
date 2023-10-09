@@ -1,0 +1,2 @@
+In a shocking turn of events, a malicious actor managed to gain physical access to our victim's computer by plugging in a rogue USB device. As a result, all critical data has been pilfered from the system. 
+Flag is direct without BHFlagY{} tag.
