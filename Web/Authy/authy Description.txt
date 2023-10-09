@@ -1,0 +1,1 @@
+I have just learned Golang and trying to build a small authentication platform with it. It's a simple API so it should be secure right ?
